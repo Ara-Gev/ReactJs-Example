@@ -1,0 +1,22 @@
+{
+  "name": "",
+  "version": "1.0.0",
+  "description": "AoD",
+  "dependencies": {
+    "babel": "latest",
+    "babel-preset-es2016": "latest",
+    "babel-preset-react": "latest",
+    "babelify": "latest",
+    "browserify": "latest",
+    "classnames": "latest",
+    "gulp": "latest",
+    "gulp-uglify": "latest",
+    "react": "latest",
+    "react-dom": "latest",
+    "vinyl-buffer": "latest",
+    "vinyl-source-stream": "latest"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
